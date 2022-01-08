@@ -1,0 +1,42 @@
+{
+  "name": "rest-apis-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochammadshenna/REST-APIs-challenges.git"
+  },
+  "keywords": [],
+  "author": "Mochammad Shenna Wardana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mochammadshenna/REST-APIs-challenges/issues"
+  },
+  "homepage": "https://github.com/mochammadshenna/REST-APIs-challenges#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "faker": "^6.6.6",
+    "form-data": "^4.0.0",
+    "google-auth-library": "^7.11.0",
+    "imagekit": "^3.2.4",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.4",
+    "pg": "^8.7.1",
+    "sequelize": "^6.12.5",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "jest": "^27.4.7",
+    "nodemon": "^2.0.15",
+    "sequelize-cli": "^6.3.0",
+    "supertest": "^6.1.6"
+  }
+}
